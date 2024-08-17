@@ -35,12 +35,18 @@
 
 1. **요일별 분석:**  
    - 요일별로 평균 좋아요 수와 도달 수를 계산하고 시각화
+[요일 별 도달 수](https://github.com/khr316/mini_project/blob/main/%EC%9A%94%EC%9D%BC%20%EB%B3%84%20%EB%8F%84%EB%8B%AC%20%EC%88%98.png)
+[요일 별 도달 수](https://github.com/khr316/mini_project/blob/main/%EC%9A%94%EC%9D%BC%20%EB%B3%84%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EC%88%98.png)
 
 2. **시간대별 분석:**  
    - 시간대별로 좋아요 수와 도달 수를 분석하고 시각화
+[시간대 별 도달 수](https://github.com/khr316/mini_project/blob/main/%EC%8B%9C%EA%B0%84%EB%8C%80%20%EB%B3%84%20%EB%8F%84%EB%8B%AC%20%EC%88%98.png)
+[시간대 별 좋아요 수](https://github.com/khr316/mini_project/blob/main/%EC%8B%9C%EA%B0%84%EB%8C%80%20%EB%B3%84%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EC%88%98.png)
 
 3. **요일 및 시간대별 분석:**  
    - 히트맵을 사용하여 요일과 시간대별로 평균 좋아요 수와 도달 수를 시각화
+[히트맵1](https://github.com/khr316/mini_project/blob/main/%EC%9A%94%EC%9D%BC%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%EB%8C%80%20%EB%B3%84%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EC%88%98%20%26%20%EB%8F%84%EB%8B%AC%20%EC%88%98.png)
+[히트맵 최종](https://github.com/khr316/mini_project/blob/main/%EC%9A%94%EC%9D%BC%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%EB%8C%80%20%EB%B3%84%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EB%B0%8F%20%EB%8F%84%EB%8B%AC%20%EC%88%98(%EC%B5%9C%EC%A2%85%EA%B2%B0%EA%B3%BC).png)
 
 ## 5. 분석 결과
 
